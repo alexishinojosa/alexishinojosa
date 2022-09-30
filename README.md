@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">Backend developer</h3>
+<h1 align="center">Hola! 👋, Soy Alexis</h1>
+<h3 align="center">Desarrollador Backend</h3>
 
 Egresado de la carrera de Ingeniería en Sistemas Computacionales, soy una persona tranquila que le apasiona el desarrollo de soluciones, en búsqueda de retos nuevos, autodidacta, desde pequeño siempre interesado en saber cómo funciona el mundo.
 
