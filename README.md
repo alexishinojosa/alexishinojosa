@@ -7,7 +7,9 @@ Melomano innato, y guitarrista en tiempos libres, entusiasta por el mundo del au
 
 Amante de la naturaleza, me encanta salir a acampar y caminar grandes distancias en los bosques, Scout por un año, aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como lo encontramos, ayudar y ser servicial siempre que es posible, ser leal a mi familia, amigos, líderes y subordinados.
 
-Una persona algo callada pero que si le hablas de videojuegos, música o cine seguro te seguirá apasionadamente la plática.
+Háblame de videojuegos, música o cine seguro te seguirá apasionadamente la plática.
+
+> “Sin música la vida sería un error”. Friedrich Nietzsche
 
 - 💬 Ask me about **python, flask, FastAPI**
 
