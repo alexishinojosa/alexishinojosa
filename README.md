@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">Backend developer</h3>
 
+Egresado de la carrera de Ingeniería en Sistemas Computacionales, soy una persona tranquila que le apasiona el desarrollo de soluciones, en búsqueda de retos nuevos, autodidacta, desde pequeño siempre interesado en saber cómo funciona el mundo.
+
+Melomano innato, y guitarrista en tiempos libres, entusiasta por el mundo del audio, disfruto de escuchar todo tipo de música aunque más inclinado al Rock. He pertenecido a diversos proyectos locales de música y actualmente estoy desarrollando una nueva banda de Rock.
+
+Amante de la naturaleza, me encanta salir a acampar y caminar grandes distancias en los bosques, Scout por un año, aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como lo encontramos, ayudar y ser servicial siempre que es posible, ser leal a mi familia, amigos, líderes y subordinados.
+
+Una persona algo callada pero que si le hablas de videojuegos, música o cine seguro te seguirá apasionadamente la plática.
+
 - 💬 Ask me about **python, flask, FastAPI**
 
 - 📫 How to reach me **alexishinojosa008@gmail.com**
