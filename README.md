@@ -11,6 +11,8 @@ Háblame de videojuegos, música o cine seguro te seguire apasionadamente la pl�
 
 > “Sin música la vida sería un error”. Friedrich Nietzsche
 
+
+
 - 💬 Ask me about **python, flask, FastAPI**
 
 - 📫 How to reach me **alexishinojosa008@gmail.com**
