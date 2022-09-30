@@ -5,7 +5,9 @@ Egresado de la carrera de Ingeniería en Sistemas Computacionales, soy una perso
 
 Melomano innato, y guitarrista en tiempos libres, entusiasta por el mundo del audio, disfruto de escuchar todo tipo de música aunque más inclinado al Rock. He pertenecido a diversos proyectos locales de música y actualmente estoy desarrollando una nueva banda de Rock.
 
-Amante de la naturaleza, me encanta salir a acampar y caminar grandes distancias en los bosques, Scout por un año, aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como lo encontramos, ayudar y ser servicial siempre que es posible, ser leal a mi familia, amigos, líderes y subordinados.
+Amante de la naturaleza, me encanta salir a acampar y caminar grandes distancias en los bosques, Scout por un año. 
+
+Aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como lo encontramos, ayudar y ser servicial siempre que es posible, ser leal a mi familia, amigos, líderes y subordinados.
 
 Háblame de videojuegos, música o cine seguro te seguire apasionadamente la plática.
 
