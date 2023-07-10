@@ -2,8 +2,8 @@
 Descripción breve del proyecto.
 
 <details>
-  <summary>Click me</summary>
-## [0.0.0] - 2023-00-00
+  <summary>## [0.0.0] - 2023-00-00</summary>
+
 Esta es una descripcion breve del release que nos cuenta el enfoque del desarrollo.
 
 ### Nuevas caracteristicas 🔰
