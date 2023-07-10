@@ -2,7 +2,7 @@
 Descripción breve del proyecto.
 
 <details>
-  <summary>## [0.0.0] - 2023-00-00</summary>
+## [0.0.0] - 2023-00-00 
 
 Esta es una descripcion breve del release que nos cuenta el enfoque del desarrollo.
 
