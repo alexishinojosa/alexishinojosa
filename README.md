@@ -8,11 +8,6 @@ Aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como
 > “Sin música la vida sería un error”. Friedrich Nietzsche
 
 
-
-- 💬 Hablamé sobre **python, flask, FastAPI**
-
-- 📫 Dónde encontrarme **alexishinojosa008@gmail.com**
-
 <h3 align="left">Redes Sociales:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/alexis-hinojosa-28b08b197/" target="_blank">
