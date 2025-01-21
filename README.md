@@ -13,9 +13,6 @@ Aprender a ser mejor cada día y dejar este mundo en mejores condiciones de como
   <a href="https://www.linkedin.com/in/alexis-hinojosa-28b08b197/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/__alex_winters__/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 </p>
 
